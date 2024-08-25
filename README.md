@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Abraham De La Hoya 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/banner-git-JUdB7Ma">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/JUdB7Ma"  ><a href="//imgur.com/a/JUdB7Ma">Banner Git</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## About me
@@ -17,8 +17,8 @@
 
 ## Favorite technologies
 
-- 🖥️ HTML, CSS, Javascript, PHP
-- 🐍 Python
+- HTML, CSS, Javascript, PHP
+- Python
 - Laravel
 - Vue.js
 - Dart
